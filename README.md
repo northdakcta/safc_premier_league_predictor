@@ -43,7 +43,7 @@ will not prove a model right or wrong; the aim is to evaluate how its prediction
 | 6 | 10 Oct | Brighton          | H | L                | L             | 0 - 1           | 0 - 2        | Yes                         |
 | 7 | 17 Oct | Bournemouth       | A | L                | L             | 1 - 2           | 0 - 2        | Yes                         |
 | 8 | 24 Oct | Leeds             | H | L                | D             | 0 - 1           | 0 - 0        | No                          |
-| 9 | 31 Oct | Coventry City     | A | L                |               | 0 - 1           |              |                             |
+| 9 | 31 Oct | Coventry City     | A | L                | L             | 0 - 1           | 1 - 3        | Yes                         |
 | 10 | 7 Nov | Chelsea           | H | L                |               | 1 - 2           |              |                             |
 | 11 | 21 Nov | Aston Villa       | A | L                |               | 0 - 1           |              |                             |
 | 12 | 28 Nov | Tottenham         | H | W                |               | 1 - 0           |              |                             |
